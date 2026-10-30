@@ -88,6 +88,8 @@ test/                   # unit and widget tests per feature
 
 - iOS target for the ML Kit subject mask
 - Localizations beyond English
+- New editing tools and features
+- Ongoing polish of the interface and of the existing tools
 
 ## License
 
